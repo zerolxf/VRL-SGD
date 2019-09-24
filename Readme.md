@@ -1,9 +1,5 @@
 # Code for ICLR 2020 paper: "Variance Reduced Local SGD with Lower Communication Complexity"
 
-## Distributed optimization algorithms based on Local SGD implemented in PyTorch
-
-Code for the experimental part of the paper "Variance Reduced Local SGD with Lower Communication Complexity".
-If you use this code for your research, please cite the paper.
 
 ## Dependencies and Setup
 
