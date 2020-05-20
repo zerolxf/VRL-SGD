@@ -1,4 +1,4 @@
-# Code for ICLR 2020 paper: "Variance Reduced Local SGD with Lower Communication Complexity"
+# Code for  paper: "Variance Reduced Local SGD with Lower Communication Complexity"
 
 
 ## Dependencies and Setup
